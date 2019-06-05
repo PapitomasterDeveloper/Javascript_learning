@@ -5,4 +5,4 @@ async function getStarWarsData() {
 	console.log(movieData);
 }
 
-getStarWarsData();
+console.log(getStarWarsData());
